@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <atom:link rel="self" type="application/rss+xml" href="https://onlyonepodcast2.000webhostapp.com/onlyone.xml" />
+        <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/onlyonepodcast/podcast/refs/heads/main/onlyone.xml" />
         <lastBuildDate>Tue, 05 Jun 2012 20:53:25 +0300</lastBuildDate>
         <title>ONLY ONE</title>
         <itunes:author>ONLY ONE</itunes:author>
@@ -4012,7 +4012,7 @@ Playlist:
 20. VOJ &amp; Asketa - Mozart (Original Mix) 57:02</itunes:summary>
 <enclosure url="http://archive.org/download/voj/voj.mp3" type="audio/mpeg" length="86995213"  />
 <guid>http://archive.org/download/voj/voj.mp3</guid>
-<pubDate>Fri, 10 Feb 2026 00:15:15 +0100</pubDate>
+<pubDate>Tue, 10 Feb 2026 00:15:15 +0100</pubDate>
 <category>Music</category>
 <itunes:explicit>no</itunes:explicit>
 <itunes:duration>01:00:00</itunes:duration>
